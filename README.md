@@ -1,5 +1,5 @@
 ## The Mission: 
-=======
+
 Make a WordPress plugin that will read that data and display it in a WordPress page using a shortcode.
 
 
