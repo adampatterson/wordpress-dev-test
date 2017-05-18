@@ -1,4 +1,5 @@
-##The Mission: 
+## The Mission: 
+=======
 Make a WordPress plugin that will read that data and display it in a WordPress page using a shortcode.
 
 
@@ -20,5 +21,3 @@ Make a WordPress plugin that will read that data and display it in a WordPress p
 * https://developer.github.com/v3/
 * https://www.topdraw.com/blog/using-composer-laravel-and-guzzle-in-your-wordpress-plugin/
 * https://api.github.com/users/octocat/repos
-
-
